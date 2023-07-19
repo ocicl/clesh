@@ -1,0 +1,11 @@
+* clesh
+
+CLESH a very short and simple program, written in Common Lisp, that
+extends Common Lisp to embed shell code in a manner similar to perl's
+backtick.
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/Neronus/clesh.git |
+| commit  | 44e96e0                                  |
+| systems | clesh                                    |
+|---------+------------------------------------------|
